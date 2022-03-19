@@ -1,0 +1,12 @@
+.imagename {
+  text-align: center;
+  color: blue;
+  font-size: large;
+  font-weight: bold;
+}
+
+#topic {
+  color: brown;
+  font-size: xx-large;
+  font-weight: bolder;
+}
